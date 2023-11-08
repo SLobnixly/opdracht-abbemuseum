@@ -1,0 +1,82 @@
+body{
+    background-color:#404040;
+margin: 0px;
+font-family: Arial, Helvetica, sans-serif;
+}
+/*classes*/
+.reset{
+    clear: both;
+}
+.highlight{color: #ca95fb;}
+
+
+.introcontainer{width: 400px;
+float: left;
+margin: 0 0 30px 0;
+}
+
+
+
+.socialb{
+   float: left;
+   margin: 10;
+
+}
+
+
+/*id*/
+/*intro*/
+#intropic{float: left;
+height: 150px;}
+#intro {
+    color: #f40000;
+}
+
+
+
+#meme{
+    width: 340px;
+    float: left;
+}
+
+
+#grotecontainer{
+    width: 630px;
+    height: 844px;
+    margin: 0 auto;
+    padding: 20px 0 0 0;
+    background-color: #7a7a7a;
+}
+
+
+/*navigation*/
+#navigation {
+    height: 30px;
+    margin: 0 0 10px 0;
+}
+
+#navigation a {
+    padding: 5px;
+    background: #20ffa2;
+}
+#navigation a:hover {
+    background: #4f6944;
+}
+
+
+/*hobby*/
+#hobbycontainer{
+    width: 340px;
+    float: left;
+    margin: 0 15px 80px 0;
+}
+
+#hobbycontainer h2{
+margin: 0;
+}
+
+#heroshot{
+    float: left;
+    
+    
+}
